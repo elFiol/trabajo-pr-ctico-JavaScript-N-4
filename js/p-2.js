@@ -1,4 +1,4 @@
-const cuenta = {
+const Cuenta = {
   titular: "Alex",
   saldo: 0,
   ingresar: function (ingresarParam) {
