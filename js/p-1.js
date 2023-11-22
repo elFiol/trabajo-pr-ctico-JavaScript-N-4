@@ -1,4 +1,4 @@
-const auto = {
+const Auto = {
   color: "rojo",
   marca: "Ford",
   modelo: "Clase F",
